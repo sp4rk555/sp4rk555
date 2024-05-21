@@ -19,3 +19,11 @@ En effet, j'ai constamment obtenu d'excellents résultats, notamment en Physique
 Dans un premier temps, je souhaite terminer mon BUT Informatique afin d'acquérir des connaissances et des compétences générales en informatique. Cela me permettra de devenir polyvalent et de disposer de bases solides dans divers domaines, tels que l'administration des systèmes d'information, le développement d'applications, la gestion des données, ainsi que le travail en équipe, l'économie et la conduite de projets.
 
 Ensuite, j'envisage potentiellement d'integrer une école d'ingénieurs qui me permettrait de renforcer encore plus mes capacité.
+
+En plus de mes études, je pratique aussi beaucoup de sport. En effet, je fais du handball en club depuis 9 ans. Je crois fermement que pratiquer un sport collectif est l'un des meilleurs moyens d'apprendre à travailler en équipe, y compris dans un contexte professionnel. Les similitudes entre une équipe de travail et une équipe sportive sont nombreuses, et il est essentiel de placer la communication au cœur des projets.
+
+## Mes Compétences
+
+## UE n°1. Réaliser un développement d’application ET UE n°2. Optimiser des applications informatiques
+
+#### Programmation procédurale avec des langages tels que ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

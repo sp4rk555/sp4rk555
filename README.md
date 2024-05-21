@@ -15,3 +15,7 @@
 Depuis mon enfance, j'ai toujours été fasciné par les sciences. Cette passion m'a conduit à suivre un parcours très scientifique au lycée, puis à intégrer une filière informatique à l'IUT du Limousin. Mon intérêt pour les sciences m'a permis de développer de solides bases dans les matières scientifiques, où j'excelle naturellement, ce qui m'incite à viser toujours plus haut.
 
 En effet, j'ai constamment obtenu d'excellents résultats, notamment en Physique-Chimie et en Mathématiques, mes enseignements de spécialité au lycée. J'ai ainsi obtenu mon Baccalauréat avec mention Très Bien.
+
+Dans un premier temps, je souhaite terminer mon BUT Informatique afin d'acquérir des connaissances et des compétences générales en informatique. Cela me permettra de devenir polyvalent et de disposer de bases solides dans divers domaines, tels que l'administration des systèmes d'information, le développement d'applications, la gestion des données, ainsi que le travail en équipe, l'économie et la conduite de projets.
+
+Ensuite, j'envisage potentiellement d'integrer une école d'ingénieurs qui me permettrait de renforcer encore plus mes capacité.

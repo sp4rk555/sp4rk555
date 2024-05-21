@@ -26,4 +26,6 @@ En plus de mes études, je pratique aussi beaucoup de sport. En effet, je fais d
 
 ## UE n°1. Réaliser un développement d’application ET UE n°2. Optimiser des applications informatiques
 
-#### Programmation procédurale avec des langages tels que ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+#### Programmation avec des langages tels que ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+Au cours de ma première année de BUT, j'ai eu l'opportunité de développer plusieurs programmes basiques en Python, tels que des algorithmes de tri (tri à bulles, tri en place) et des listes chaînées, ainsi qu'une application d'arcade permettant de jouer à divers mini-jeux. Puis nous avons developper des programmes pour que le joueur puissent jouer contre la machine : [mini-jeux](https://github.com/sp4rk555/sae-1.02.git)

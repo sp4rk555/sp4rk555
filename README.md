@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Benjamin Hollande</h1>
+<h1 align="center">Hi 👋, I'm Benjamin Hollande</h1>   #FFCB05
 <h3 align="center">A first year student from France</h3>
 
 - 🔭 I’m currently working on [scrabble](https://github.com/naguiagahnim/scrabble.git)
